@@ -1,4 +1,0 @@
-mail.satisfied-fashion.com
-pop.satisfied-fashion.com
-smtp.satisfied-fashion.com
-www.satisfied-fashion.com

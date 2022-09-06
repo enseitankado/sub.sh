@@ -1,9 +1,0 @@
-backup.softtr.com
-dev.softtr.com
-ftp.softtr.com
-mail.softtr.com
-pop.softtr.com
-reports.softtr.com
-smtp.softtr.com
-update.softtr.com
-www.softtr.com
