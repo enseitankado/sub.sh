@@ -3,14 +3,15 @@
 
  Required tools: jq,parallel,wget,goLang,amass,findomain,subfinder and assetfinder
 
-# Updates that I made
+# Contributions made by me
 
 * Used name servers for verifying subdomains ınstead of checking 80/443 (httprobe avoided).
 * Some ortopedical improvements about outputs (file and screen).
 * Updated depricated install method of go.
 * Amass runs in passive mode in short scan (-s) otherwise runs in active brute mode.
-* VirusTotal removed because of CAPTCHA protection
-* CertSpotter API service updated
+* VirusTotal removed because of CAPTCHA protection.
+* CertSpotter API service updated.
+* Installation sub program revized to new versions.
 
 ## Used Services & Tools
 ```
@@ -56,6 +57,9 @@ curl -sL bit.ly/3bUdFHv | bash /dev/stdin -s example.com
 ./sub.sh -h
 ```
 ### Usufull tips
+
+#### Scan domain list
+
 ```bash
 # STEP-1: To enumerate a domain list first eliminate dublicateds (e.g: domain.lst)
 cat domains.lst | sort -u > domains-unique.lst

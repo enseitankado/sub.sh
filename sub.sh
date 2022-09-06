@@ -156,7 +156,7 @@ function commonToolInstall(){
 	   echo -e "${BLUE}[!] Findomain already exists \n${RESET}"
 	else
 	    case "$(uname -a)" in
-	        *Debian*|*Ubuntu*|*Linux*|*Fedora*)
+	        *Debian*|*Ubuntu*|*Linux*|*Fedora*|*kali*)
 			curl -LO https://github.com/findomain/findomain/releases/latest/download/findomain-linux-i386.zip
 			unzip findomain-linux-i386.zip
 			chmod +x findomain

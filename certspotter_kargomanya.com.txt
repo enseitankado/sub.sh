@@ -1,7 +1,0 @@
-api.kargomanya.com
-gonderi.kargomanya.com
-kayit.kargomanya.com
-ns1.kargomanya.com
-onkayit.kargomanya.com
-test-api.kargomanya.com
-www.kargomanya.com

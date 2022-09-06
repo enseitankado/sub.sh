@@ -1,0 +1,3 @@
+mx.bilimdepo.com
+srv.bilimdepo.com
+www.bilimdepo.com
