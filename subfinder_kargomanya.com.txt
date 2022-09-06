@@ -1,0 +1,9 @@
+kayit.kargomanya.com
+ns1.kargomanya.com
+api.kargomanya.com
+gonderi.kargomanya.com
+www.kargomanya.com
+musteri.kargomanya.com
+test-api.kargomanya.com
+sube.kargomanya.com
+onkayit.kargomanya.com

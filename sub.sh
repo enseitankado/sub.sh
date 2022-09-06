@@ -160,7 +160,7 @@ function commonToolInstall(){
 			curl -LO https://github.com/findomain/findomain/releases/latest/download/findomain-linux-i386.zip
 			unzip findomain-linux-i386.zip
 			chmod +x findomain
-			sudo mv findomain /usr/bin/findomain
+			sudo mv findomain /usr/local/bin/findomain
 			echo -e "${RED}[!] Findomain installed \n${RESET}"
 	            ;;
 	        *)

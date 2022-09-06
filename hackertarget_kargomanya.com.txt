@@ -1,0 +1,4 @@
+api.kargomanya.com
+test-api.kargomanya.com
+gonderi.kargomanya.com
+onkayit.kargomanya.com
